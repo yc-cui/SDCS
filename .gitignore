@@ -1,0 +1,7 @@
+__pycache__
+log*
+*.png
+*.zip
+*.tif
+*.txt
+*.bib
