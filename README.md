@@ -10,7 +10,7 @@ This is the official pytorch implementation of [Semiblind Compressed Sensing: A 
 
 ## General Image Quality Improvement
 
-![](assets/overview.png)
+![](assets/overview.jpg)
 
 
 
